@@ -1,0 +1,54 @@
+[
+ {
+  "allow": "Company",
+  "applicable_for": null,
+  "apply_to_all_doctypes": 1,
+  "docstatus": 0,
+  "doctype": "User Permission",
+  "for_value": "TCS",
+  "hide_descendants": 0,
+  "is_default": 0,
+  "modified": "2023-10-20 11:26:49.276861",
+  "name": "58338f9b89",
+  "user": "tejalkumbhar@gmail.com"
+ },
+ {
+  "allow": "Company",
+  "applicable_for": null,
+  "apply_to_all_doctypes": 1,
+  "docstatus": 0,
+  "doctype": "User Permission",
+  "for_value": "TCS",
+  "hide_descendants": 0,
+  "is_default": 0,
+  "modified": "2023-10-20 11:39:03.625998",
+  "name": "69911b0e78",
+  "user": "sohampawar@gmail.com"
+ },
+ {
+  "allow": "Company",
+  "applicable_for": null,
+  "apply_to_all_doctypes": 1,
+  "docstatus": 0,
+  "doctype": "User Permission",
+  "for_value": "Infosys",
+  "hide_descendants": 0,
+  "is_default": 0,
+  "modified": "2023-10-20 11:43:42.015553",
+  "name": "a27187b151",
+  "user": "vivekkumbhar@gmail.com"
+ },
+ {
+  "allow": "Company",
+  "applicable_for": null,
+  "apply_to_all_doctypes": 1,
+  "docstatus": 0,
+  "doctype": "User Permission",
+  "for_value": "Infosys",
+  "hide_descendants": 0,
+  "is_default": 0,
+  "modified": "2023-10-20 11:47:10.601928",
+  "name": "0d90b4ee3f",
+  "user": "abhishekshinde@gmail.com"
+ }
+]
